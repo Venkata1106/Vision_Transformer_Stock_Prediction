@@ -1,9 +1,5 @@
 # Vision Transformer for Stock Market Forecasting
 
-### Authors: Naveen Subhash Udata, Kahan Dhaneshbhai Sheth
-Northeastern University, Boston, MA  
-Email: udata.n@northeastern.edu, sheth.kah@northeastern.edu
-Date: December 11, 2023
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -62,10 +58,7 @@ This project applies **Vision Transformers (ViT)**, a powerful deep learning mod
 
 The **Vision Transformer (ViT)** model shows promise for stock market forecasting, consistently outperforming traditional models in predicting stock price direction. Its ability to handle time-series data in the form of images opens up new avenues for financial forecasting.
 
-## Contributors
 
-- **Naveen Subhash Udata**: Data preprocessing, implementation of ViT and Transformer models, visualizations.
-- **Kahan Dhaneshbhai Sheth**: Data transformation, GAF conversion, model comparison.
 
 ## References
 
