@@ -8,8 +8,7 @@
 4. [Technologies Used](#technologies-used)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Contributors](#contributors)
-8. [References](#references)
+7. [References](#references)
 
 ## Project Overview
 
